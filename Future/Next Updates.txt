@@ -1,0 +1,5 @@
+Home Screen with "Teams", "Settings", "Start with current settings"
+
+Settings Screen - Options = Clear data, Choose time, Continue while not in focus (Toast notification?)/pause and reopen
+Teams Screen - Same as current
+Timer Screen - *Continue while offscreen or pause*
